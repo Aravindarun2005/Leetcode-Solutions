@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0205-isomorphic-strings](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1021-remove-outermost-parentheses](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
