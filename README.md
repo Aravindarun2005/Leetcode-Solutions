@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Linked List
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
