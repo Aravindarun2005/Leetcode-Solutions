@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [1603-design-parking-system](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Linked List
 |  |
 | ------- |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
