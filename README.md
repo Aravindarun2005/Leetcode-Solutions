@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
