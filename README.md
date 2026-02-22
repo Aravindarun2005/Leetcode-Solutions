@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0641-design-circular-deque](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [1603-design-parking-system](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0641-design-circular-deque](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
