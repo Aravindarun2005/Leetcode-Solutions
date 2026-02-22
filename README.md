@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Trie
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
