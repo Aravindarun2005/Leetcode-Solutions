@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0229-majority-element-ii](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -30,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
