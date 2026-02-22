@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1603-design-parking-system) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -143,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
