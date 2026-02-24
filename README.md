@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0877-stone-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0641-design-circular-deque](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0877-stone-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -194,4 +196,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
