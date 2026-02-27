@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0641-design-circular-deque](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 ## Two Pointers
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
