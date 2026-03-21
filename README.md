@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0641-design-circular-deque](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
 |  |
 | ------- |
