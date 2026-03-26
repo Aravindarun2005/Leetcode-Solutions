@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0641-design-circular-deque](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Counting
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 ## Trie
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
