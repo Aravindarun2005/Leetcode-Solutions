@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0641-design-circular-deque](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0643-maximum-average-subarray-i](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
