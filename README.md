@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0881-boats-to-save-people](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Counting
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 ## Trie
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Data Stream
 |  |
 | ------- |
