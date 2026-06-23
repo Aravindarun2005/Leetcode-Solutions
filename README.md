@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -336,4 +337,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
