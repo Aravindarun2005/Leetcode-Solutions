@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1331-rank-transform-of-an-array](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## String
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1331-rank-transform-of-an-array](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1331-rank-transform-of-an-array](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
