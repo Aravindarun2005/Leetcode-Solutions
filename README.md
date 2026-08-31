@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0969-pancake-sorting](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Aravindarun2005/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Trie
 |  |
 | ------- |
